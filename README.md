@@ -52,7 +52,7 @@ Type=simple
 
 User=nodejs
 
-WorkingDirectory=//home/ubuntu/challenge-linux-bash
+WorkingDirectory=/home/ubuntu/challenge-linux-bash
 
 ExecStart=/usr/bin/node /home/ubuntu/challenge-linux-bash/server.js
 
